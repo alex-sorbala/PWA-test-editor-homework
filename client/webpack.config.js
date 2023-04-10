@@ -31,8 +31,8 @@ module.exports = () => {
         name: "Text Editor",
         short_name: "TextEdPWA",
         description: "Edit and save text even while offline!",
-        background_color: "#FF67E7",
-        theme_color: "#FF67E7",
+        background_color: "#ffb463",
+        theme_color: "#ffb463",
         start_url: "./",
         publicPath: "./",
         icons: [

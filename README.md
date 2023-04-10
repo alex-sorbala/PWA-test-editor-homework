@@ -1,12 +1,11 @@
-# Text-Editor-PWA
+# PWA Text Editor
 
 ![GitHub License](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
+A text editor that runs in the browser and is an installable PWA app.
 
-
-
-Link to deployed app: 
+-- Link to deployed app: https://alex-pwa-homework.herokuapp.com/
 
 ## Table of Contents
 
@@ -30,8 +29,11 @@ The application can be installed as a PWA using the install button on the page o
 
 ## License
 
-MIT
+ This application is covered under the [MIT License](LICENSE)
 
 ## Contributing
 
 N/A
+
+### Screenshots
+![Screenshot]()
