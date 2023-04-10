@@ -5,7 +5,7 @@
 ## Description
 A text editor that runs in the browser and is an installable PWA app.
 
--- Link to deployed app: https://alex-pwa-homework.herokuapp.com/
+- Link to deployed app: https://alex-pwa-homework.herokuapp.com/
 
 ## Table of Contents
 

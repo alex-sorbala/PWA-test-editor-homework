@@ -24,7 +24,7 @@ export const putDb = async (content) => {
   console.log("🚀 - data saved to the database", result);
 };
 
-// method to gets all the content from the database
+// TODO: Add logic to a method that accepts some content and adds it to the database
 export const getDb = async () => {
   console.log("GET from the database");
 
@@ -34,12 +34,13 @@ export const getDb = async () => {
 
   const store = tx.objectStore("jate");
 
-  // Get all data in the database.
+  // TODO: Add logic for a method that gets all the content from the database
   const request = store.getAll();
 
   // Get confirmation of the request.
   const result = await request;
   console.log(result);
+  
   // check for data else return null
   if (result.length > 0) {
     console.log("result.value: ", result);
