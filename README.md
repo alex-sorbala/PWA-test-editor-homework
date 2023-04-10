@@ -36,4 +36,4 @@ The application can be installed as a PWA using the install button on the page o
 N/A
 
 ### Screenshots
-![Screenshot]()
+![Screenshot](./screenshot-PWA-deployed.png)
